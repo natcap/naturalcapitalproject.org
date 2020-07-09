@@ -1,2 +1,3 @@
 # naturalcapitalproject.org
-Redirect our old domain to naturalcapitalproject.stanford.edu
+
+Redirect to the drupal-powered https://naturalcapitalproject.stanford.edu
